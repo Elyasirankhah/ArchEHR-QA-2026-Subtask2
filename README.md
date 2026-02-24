@@ -11,7 +11,7 @@ Pipeline for **ArchEHR-QA 2026** (Archer) **Subtask 2**: identify evidence (e.g.
 
 **Team:** [Data Mining Lab @ Yale](https://github.com/Data-Mining-Lab-Yale)  
 **Participant:** [Elyasirankhah](https://github.com/Elyasirankhah)  
-**Place:** 4th (test phase).
+**Place:** 4th out of 106 submissions (32 participants).
 
 Results are publicly available at: [Codabench — Subtask 2: Evidence Identification leaderboard](https://www.codabench.org/competitions/13526/#/results-tab).
 

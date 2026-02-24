@@ -13,6 +13,10 @@ Pipeline for **ArchEHR-QA 2026** (Archer) **Subtask 2**: identify evidence (e.g.
 **Participant:** [Elyasirankhah](https://github.com/Elyasirankhah)  
 **Place:** 4th out of 106 submissions (32 participants).
 
+We made the **official leaderboard**, placing among the top 5 strong systems in the competition.
+
+
+
 Results are publicly available at: [Codabench — Subtask 2: Evidence Identification leaderboard](https://www.codabench.org/competitions/13526/#/results-tab).
 
 | Metric | Score |

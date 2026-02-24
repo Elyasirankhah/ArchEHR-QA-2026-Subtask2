@@ -1,0 +1,2 @@
+# Add dependencies for Subtask 2 pipeline when available
+# python-dotenv>=1.0.0

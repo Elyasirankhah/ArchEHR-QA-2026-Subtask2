@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+*.pyo
+*.json
+!requirements.txt
+training_examples.json
+codabench_subtask2/
+*.zip
+data/
